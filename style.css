@@ -1,5 +1,51 @@
 body {
-  background-color: darkgrey;
+  background-color: rgb(171, 152, 56);
   text-align: center;
+}
+
+#title {
+  font-size: 35px;
+  font-family: "Courier New", Courier, monospace;
+  color: hsl(226, 55%, 17%);
+  font-weight: 800;
+}
+
+img {
+  height: auto;
+  width: 350px;
+}
+
+.image-home {
+  width: 600px;
+}
+
+.list {
+  font-size: 25px;
+  list-style: none;
   font-family: monospace;
+}
+
+ul li {
+  list-style: none;
+}
+
+h2,
+h3 {
+  color: #114973;
+  font-size: 28px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.title2 {
+  color: rgb(54, 49, 31);
+  font-weight: 700;
+  font-size: 27px;
+}
+
+.link-home {
+  font-size: 22px;
+  font-weight: 700;
 }
